@@ -1,0 +1,15 @@
+opencv-python
+opencv-contrib-python
+numpy
+torch
+torchvision
+streamlit
+scikit-image
+matplotlib
+imutils
+tqdm
+pyyaml
+gitpython
+yolov5==7.0.12
+ultralytics
+nvidia-cudnn-cu11
