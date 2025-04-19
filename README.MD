@@ -2,7 +2,7 @@
 
 ![Demo GIF](demo.gif) *(Keep this under 5MB)*
 
-A real-time computer vision system for autonomous vehicle perception, featuring lane detection, object recognition, and control logic. Perfect for showcasing to autonomous vehicle companies like Tesla and BYD.
+A real-time computer vision system for autonomous vehicle perception, featuring lane detection, object recognition, and control logic.
 
 ## 🌟 Key Features
 
